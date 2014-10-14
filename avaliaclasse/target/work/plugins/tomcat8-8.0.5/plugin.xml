@@ -1,0 +1,7 @@
+<plugin name='tomcat8' version='8.0.5' grailsVersion='2.3 &gt; *'>
+  <title>Apache Tomcat 8 plugin</title>
+  <description>Makes Tomcat 8.x the servlet container for Grails at development time</description>
+  <documentation>http://grails.org/plugin/tomcat8</documentation>
+  <type>Tomcat8GrailsPlugin</type>
+  <resources />
+</plugin>
